@@ -2,9 +2,10 @@
 title: Kévin Gossé's CV
 description: ddbullfrog's CV
 favicon: /assets/img/linkedin_profil.jpg
-url: ""
+baseurl: https://kgosse.github.io/resumecard
+url: https://kgosse.github.io/resumecard
 rss_url: /resumecard/pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-75224628-1
 
 # Build settings
 markdown: kramdown
