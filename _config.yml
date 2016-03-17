@@ -1,9 +1,8 @@
 # Site settings
-title: Dong Liang's CV 
+title: Kévin Gossé's CV
 description: ddbullfrog's CV
-favicon: /resumecard/assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+favicon: /assets/img/linkedin_profil.jpg
+url: ""
 rss_url: /resumecard/pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,72 +13,109 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Kévin Gossé
+  title: Full-Stack JS Developer
+  address: Paris, France
+  email: kevingosse1@gmail.com
+  link:
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
+  github: kgosse
+  linkedin: kévin-gossé-67539b54
+  twitter: kevingosse10
+  gavatar: /assets/img/linkedin_profil.jpg
+#  stackoverflow: 3669476
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: monAlbumPhoto.fr
+      location: Rungis, France
+      title: Full-Stack JavaScript Developer (professional training contract)
+      started: 2016
+      duration: (feb - Present)
+      description: monalbumphoto.fr is an application developed sinced 2004. Ruby is used on the back-end and backbone on the front-end. My work is to refactor the front-end using react and integrate by the way new features.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Sparted
+      location: Charonne, France
+      title: JavaScript Developer (Internship)
+      started: 2015
+      duration: (jul - sept)
+      description: Sparted creates mobile games in order train employees and give them various informations about their company. KQuiz is the application developed for Kérastase. I worked on the new version of that one. I had to integrate some new interfaces as well as many new kind of games. I have done many animated interfaces with gsap. I used cordova as it was a javascript cross-platform app and mithriljs.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: INSHEA
+      location: Suresnes, France
+      title: Full-Stack JavaScript Developer (Internship)
+      started: 2014
+      duration: (feb - jun)
+      description: The french ministry of education had a project to give tablets (ipad) to CLIS (which is a school class entirely composed of students with mental or physical disability). So the ministry wanted to evaluate the efficiency of this project by working with a limited number of CLIS. So, I had to make a application that will allow teachers to give some informations about how students are dealing with the tablets they received and if they facilitate the process of learning. I developed that app alone. I made an SPA with angular. I used php with laravel on the back and mysql as database.
+    - work4:
+      company: IPEDIS
+      location: Noisy-Le-Grand, France
+      title: PHP Developer (work-study contract)
+      started: 2013
+      duration: (oct - nov)
+      description: I developed an application for the company whose goal was to manage the product they create. I used PHP and Jquery.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: ETNA
+      location: Ivry-sur-Seine, France
+      degree: Master’s of Science
+      major: Software Achitecture, Applications Developer (expected)
+      started: 2015
+      duration: (2015 - 2017)
+      description: It is a two-year sandwich course degree and we spent most of time in the company. The fact to be working on professional applications is a huge advantage at the end of the degree because you get a very pratical experience. So, as mention with my major, my speciality is to develop applications of any kind (web, mobile, desktop). My preferred language is JavaScript but I also have to program with native technologies (java, objectie-c or swift etc).
+    - education2:
+      organization: EPITA
+      location: Kremlin Bicêtre, France
+      degree: engineering school
+      major: computer science
+      started: 2015
+      duration: (2014 - 2015)
+      description: It is a three-year degree. I have done only one year because of personal reasons. We learned low level programming and many fundamental things in computer science (Programming language theory, code a compiler, c, c++, java, functional programming in haskell and lisp, object oriented programming, design patterns, analysis of algorithms, data compression and even sql with postgresql). It is by far the most difficult year of all the degree (because we have to a choose a major after that, so we won't do everything). I have learned a lot and I do appreciate that experience.
+    - education3:
+      organization: Nanterre Université
+      location: Nanterre, France
+      degree: three-year university degree
+      major: Business Informatics (MIAGE in French)
+      started: 2011
+      duration: (2011 - 2014)
+      description: The main subjects of this degree were computer science, economics, mathmatics. I have done an internship in the third year at INSHEA (see above).
+    - education4:
+      organization: La Farandole
+      location: Abidjan, Côte d'Ivoire
+      degree: Baccalauréat ES (French secondary school diploma)
+      major: economics and mathmatics
+      started: 2010
+      duration: (2010 - 2011)
+      description: The two main subjects were economics and mathmactics. I have had an average of 13/20 at the exam and I got 20/20 in mathmatics.
   languages:
     - language1:
-      name: Chinese
+      name: French
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: HTML5 && CSS3 (SASS)
+      percentage: 90%
     - skill2:
-      name: Bootstrap
+      name: NodeJS (SailsJS && loopback)
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 100%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: AngularJS (1 && 2)
+      percentage: 90%
     - skill5:
-      name: Java/Java EE
+      name: React && React Native
+      percentage: 90%
+    - skill6:
+      name: ionic (1 && 2)
+      percentage: 90%
+    - skill7:
+      name: nativescript
+      percentage: 80%
+    - skill8:
+      name: Electron && NW.js
       percentage: 90%
