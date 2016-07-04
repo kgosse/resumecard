@@ -18,6 +18,7 @@ author:
   title: Full-Stack JS Developer
   address: Paris, France
   email: kevingosse1@gmail.com
+  blog: kgosse.github.io
   link:
   weibo:
   github: kgosse
@@ -71,7 +72,7 @@ author:
       major: computer science
       started: 2015
       duration: (2014 - 2015)
-      description: It is a three-year degree. I have done only one year because of personal reasons. We learned low level programming and many fundamental things in computer science (Programming language theory, code a compiler, c, c++, java, functional programming in haskell and lisp, object oriented programming, design patterns, analysis of algorithms, data compression and even sql with postgresql). It is by far the most difficult year of all the degree (because we have to a choose a major after that, so we won't do everything). I have learned a lot and I do appreciate that experience.
+      description: It is a three-year degree. I have done only one year because of personal reasons. We learned low level programming and many fundamental things in computer science (Programming language theory, code a compiler, c, c++, java, functional programming in haskell and lisp, object oriented programming, design patterns, analysis of algorithms, data compression and even sql with postgresql). It was a very challenging and interesting year.
     - education3:
       organization: Nanterre Université
       location: Nanterre, France
